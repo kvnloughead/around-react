@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/around-react/static/css/main.db1166c2.chunk.css",
+    "main.js": "/around-react/static/js/main.24f58162.chunk.js",
+    "main.js.map": "/around-react/static/js/main.24f58162.chunk.js.map",
+    "runtime-main.js": "/around-react/static/js/runtime-main.ff9e5d56.js",
+    "runtime-main.js.map": "/around-react/static/js/runtime-main.ff9e5d56.js.map",
+    "static/js/2.87353fb1.chunk.js": "/around-react/static/js/2.87353fb1.chunk.js",
+    "static/js/2.87353fb1.chunk.js.map": "/around-react/static/js/2.87353fb1.chunk.js.map",
+    "index.html": "/around-react/index.html",
+    "precache-manifest.0d5fc36bcd9179d4dae338056c888450.js": "/around-react/precache-manifest.0d5fc36bcd9179d4dae338056c888450.js",
+    "service-worker.js": "/around-react/service-worker.js",
+    "static/css/main.db1166c2.chunk.css.map": "/around-react/static/css/main.db1166c2.chunk.css.map",
+    "static/js/2.87353fb1.chunk.js.LICENSE.txt": "/around-react/static/js/2.87353fb1.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/around-react/static/media/yosemite.bdf7042b.jpg",
+    "static/media/header-logo.svg": "/around-react/static/media/header-logo.71ad3aff.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff9e5d56.js",
+    "static/js/2.87353fb1.chunk.js",
+    "static/css/main.db1166c2.chunk.css",
+    "static/js/main.24f58162.chunk.js"
+  ]
+}
